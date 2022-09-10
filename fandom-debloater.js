@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Fandom Debloater
-// @version      0.1
+// @version      0.1.1
 // @description  Makes fandom less shit
 // @author       Xyrec
 // @match        *.fandom.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=fandom.com
 // @grant        none
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+// @downloadURL  https://github.com/Xyrec/fandom-debloater/raw/main/fandom-debloater.js
+// @updateURL    https://github.com/Xyrec/fandom-debloater/raw/main/fandom-debloater.js
 // ==/UserScript==
 
 (function() {
